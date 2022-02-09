@@ -1,0 +1,29 @@
+Instance : UK10_08
+Running Time : 1294.2463121414185 s
+
+----- Optimal Solution --- 
+path :['0', '1', '6', '2', '4', '5', '3', '7']
+flexible_decision : [0, 1, 0, 1, 1, 1, 0]
+WCL_speed_level : [0, 40, 0, 40, 40, 30, 0]
+battery_consumption : [9.67, 16.9, 10.47, 7.73, 7.47, 15.79, 12.87]
+battery_charged : [0, 18.0, 0, 9.0, 6.75, 27.0, 0]
+SOC : [24, 14.33, 15.43, 4.96, 6.23, 5.51, 16.72, 3.85]
+time : 5.980450886980269
+battery : 3.850000000000003
+score : 0
+charging_time : 0.67
+travel_time_list : [0.61, 1.15, 0.71, 0.74, 0.62, 1.18, 0.97]
+charging_time_list : [0, 0.2, 0, 0.1, 0.07, 0.3, 0]
+SC_time : 9.435807365014682
+SC_charging_time : 0.53
+SC_battery_charged : [0, 34.9, 0, 16.73, 14.22, 42.79, 0]
+SC_travel_time_list : [0.61, 2.25, 0.71, 1.48, 1.23, 2.19, 0.97]
+SC_charge_time_list : [0, 0.17, 0, 0.08, 0.07, 0.21, 0]
+
+
+ Feasible solution summary 
+
+
+
+  Feasible path number :21
+
